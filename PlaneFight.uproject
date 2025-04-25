@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{DD08228C-4EA2-E0E2-3DC0-FAA9A8830C8A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PlaneFight",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
